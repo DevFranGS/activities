@@ -1,0 +1,19 @@
+#first_block{
+    width: 100%;
+    border: 1px solid black;
+    margin: 0 0 10px;
+}
+
+#second_block{
+    width: 50%;
+    background: red;
+    font-weight: bold;
+    margin: 0 0 1em;
+}
+
+.third_block{
+    width: 50%;
+    color: blue;
+    padding: 0 0 1em;
+
+}
